@@ -1,0 +1,13 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/react": "18.0.26",
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}

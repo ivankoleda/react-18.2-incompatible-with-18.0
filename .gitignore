@@ -1,0 +1,5 @@
+.idea
+node_modules
+library-dist
+# can't be added due to compliance reasons, react types versions are pinned in package.json
+*/yarn.lock
